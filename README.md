@@ -38,7 +38,7 @@ Future work could involve expanding the dataset and categories, refining perform
 葉可彤 Dataset collection <br/>
 
 # Acknowledgments
-We would like to express our sincere gratitude to the following individuals for their invaluable contributions to this project:<br/>
-Pien, Chung-Pei (Professor): We are deeply grateful to professor Pien for providing guidance and mentorship throughout the project. Your expertise and insights were instrumental in shaping our approach and ensuring the success of this project.<br/>
-Ian Huang (Teaching Assistant): We are very grateful to Ian for his unwavering support and guidance throughout the coding process. <br/>
+We would like to express our sincere gratitude to the following individuals for their invaluable contributions to this project:<br/><br/>
+Pien, Chung-Pei (Professor): We are deeply grateful to professor Pien for providing guidance and mentorship throughout the project. Your expertise and insights were instrumental in shaping our approach and ensuring the success of this project.<br/><br/>
+Ian Huang (Teaching Assistant): We are very grateful to Ian for his unwavering support and guidance throughout the coding process. <br/><br/>
 The Kaggle Community: We would like to acknowledge the open-source community and the valuable resources they have created, which served as the foundation for our work. Specifically, we utilized some datasets from other creators for an increased accuracy. 
