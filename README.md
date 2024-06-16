@@ -36,10 +36,10 @@ By enabling precise waste classification at the source, the model addresses Taiw
 Future work could involve expanding the dataset and categories, refining performance for lower-accuracy categories, and integrating the model into existing waste management systems or user-friendly applications to facilitate broader adoption and impact for all residents in Taiwan. 
 
 # Contributors
-謝宜蓁 <br/>
-鄒宸萱 <br/>
+謝宜蓁 Coding, project discussion<br/>
+鄒宸萱 Coding, project discussion, project presentation <br/>
 韋欣 Dataset collection, project methodology discussion, booth poster design <br/>
-胡裔婕 Project ideation, dataset collection, presentation slide design <br/>
+胡裔婕 Project ideation, dataset collection, slide design <br/>
 李聖悅 Dataset collection, project methodology discussion, project presentation <br/>
 葉可彤 Dataset collection <br/>
 
@@ -51,13 +51,13 @@ The Kaggle Community: We would like to acknowledge the open-source community and
 
 # References
 Dataset sources (for non-Taiwanese trash):<br/>
-(https://www.kaggle.com/datasets/mostafaabla/garbage-classification)<br/>
-(https://www.kaggle.com/datasets/ashwinshrivastav/most-common-recyclable-and-nonrecyclable-objects)<br/>
-(https://www.kaggle.com/code/farzadnekouei/imbalanced-garbage-classification-resnet50)<br/>
-(https://www.kaggle.com/datasets/mostafaabla/garbage-classification)<br/><br/>
+https://www.kaggle.com/datasets/mostafaabla/garbage-classification<br/>
+https://www.kaggle.com/datasets/ashwinshrivastav/most-common-recyclable-and-nonrecyclable-objects<br/>
+https://www.kaggle.com/code/farzadnekouei/imbalanced-garbage-classification-resnet50<br/>
+https://www.kaggle.com/datasets/mostafaabla/garbage-classification<br/><br/>
 
 
 Other Market Research sources:<br/>
-(https://news.pts.org.tw/article/488630)<br/>
-(https://www.nyckel.com/pretrained-classifiers/recycling-identifier/)<br/>
-(https://www.taiwanwatch.org.tw/node/1385)<br/>
+https://news.pts.org.tw/article/488630<br/>
+https://www.nyckel.com/pretrained-classifiers/recycling-identifier/<br/>
+https://www.taiwanwatch.org.tw/node/1385<br/>
