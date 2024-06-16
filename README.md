@@ -6,7 +6,7 @@ This project aims to develop an AI model tailored specifically for waste classif
 To address this issue, we have curated a comprehensive dataset composed of images of various waste items collected in Taipei, and combined with other external sources. Our AI model will accurately identify and classify the different types of waste found in Taiwan, providing clear instructions on their appropriate disposal methods.
 
 # Getting Started
-[Taiwan Waste Dataset] (https://drive.google.com/drive/folders/1-1xCiUErjF-nEyUobdbqsEdGfIY-ZnoZ?usp=drive_link)
+[Taiwan Waste Dataset](https://drive.google.com/drive/folders/1-1xCiUErjF-nEyUobdbqsEdGfIY-ZnoZ?usp=drive_link)
 
 
 
@@ -48,3 +48,16 @@ We would like to express our sincere gratitude to the following individuals for 
 Pien, Chung-Pei (Professor): We are deeply grateful to professor Pien for providing guidance and mentorship throughout the project. Your expertise and insights were instrumental in shaping our approach and ensuring the success of this project.<br/><br/>
 Ian Huang (Teaching Assistant): We are very grateful to Ian for his unwavering support and guidance throughout the coding process. <br/><br/>
 The Kaggle Community: We would like to acknowledge the open-source community and the valuable resources they have created, which served as the foundation for our work. Specifically, we utilized some datasets from other creators for an increased accuracy. 
+
+# References
+Dataset sources (for non-Taiwanese trash):<br/>
+(https://www.kaggle.com/datasets/mostafaabla/garbage-classification)<br/>
+(https://www.kaggle.com/datasets/ashwinshrivastav/most-common-recyclable-and-nonrecyclable-objects)<br/>
+(https://www.kaggle.com/code/farzadnekouei/imbalanced-garbage-classification-resnet50)<br/>
+(https://www.kaggle.com/datasets/mostafaabla/garbage-classification)<br/><br/>
+
+
+Other Market Research sources:<br/>
+(https://news.pts.org.tw/article/488630)<br/>
+(https://www.nyckel.com/pretrained-classifiers/recycling-identifier/)<br/>
+(https://www.taiwanwatch.org.tw/node/1385)<br/>
