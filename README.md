@@ -6,13 +6,19 @@ This project aims to develop an AI model tailored specifically for waste classif
 To address this issue, we have curated a comprehensive dataset composed of images of various waste items collected in Taipei, and combined with other external sources. Our AI model will accurately identify and classify the different types of waste found in Taiwan, providing clear instructions on their appropriate disposal methods.
 
 # Getting Started
-
+[Taiwan Waste Dataset] (https://drive.google.com/drive/folders/1-1xCiUErjF-nEyUobdbqsEdGfIY-ZnoZ?usp=drive_link)
 
 
 
 # File Structure
+Total: 5112 (contains 6 classes)<br/><br/>
 
-
+* General (一般垃圾): 501<br/>
+* General Recycle (一般資源回收): 1398<br/>
+* Styrofoam (保麗龍): 496<br/>
+* Plastic Bag (塑膠袋): 376<br/>
+* Paper (廢紙): 1300<br/>
+* Paper Container (紙容器): 468<br/>
 
 
 # Analysis
