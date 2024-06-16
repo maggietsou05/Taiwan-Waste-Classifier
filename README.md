@@ -30,12 +30,12 @@ By enabling precise waste classification at the source, the model addresses Taiw
 Future work could involve expanding the dataset and categories, refining performance for lower-accuracy categories, and integrating the model into existing waste management systems or user-friendly applications to facilitate broader adoption and impact for all residents in Taiwan. 
 
 # Contributors
-謝宜蓁 
-鄒宸萱 
-韋欣 Dataset collection, project methodology discussion, booth poster design
-胡裔婕 Project ideation, dataset collection, presentation slide design
-李聖悅 Dataset collection, project methodology discussion, project presentation
-葉可彤 Dataset collection
+謝宜蓁 <br/>
+鄒宸萱 <br/>
+韋欣 Dataset collection, project methodology discussion, booth poster design <br/>
+胡裔婕 Project ideation, dataset collection, presentation slide design <br/>
+李聖悅 Dataset collection, project methodology discussion, project presentation <br/>
+葉可彤 Dataset collection <br/>
 
 # Acknowledgments
 We would like to express our sincere gratitude to the following individuals for their invaluable contributions to this project:
